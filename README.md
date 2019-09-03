@@ -1,6 +1,6 @@
 # Performance comparison NoSQL vs Relational database
 
-# Evaluate the performing of MySQL and MongoDB 
+### Aim: To evaluate the performing of MySQL and MongoDB 
 
 ## Source
 http://oceantrackingnetwork.org/about/
